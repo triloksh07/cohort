@@ -29,6 +29,7 @@ This is **industry pattern**.
 Good question from class.
 
 Express → MongoDB (possible)
+
 But we use **Mongoose (ODM)** because:
 
 * Schema validation
