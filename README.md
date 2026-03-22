@@ -4,9 +4,6 @@ This repository contains my notes, backend architectures,
 JavaScript internals, system design concepts, and diagrams
 that I am learning while studying web development and backend engineering.
 
-This is not a tutorial repo.
-This is a knowledge base.
-
 Topics covered:
 - JavaScript Internals
 - Backend Architecture
